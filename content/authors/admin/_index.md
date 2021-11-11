@@ -17,7 +17,7 @@ social:
     link: https://github.com/mohammadshahidzade
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/mohammad-shahidzade/
 organizations:
   - name: Shahid bahonar university of kerman
     url: https://uk.ac.ir/en/home
