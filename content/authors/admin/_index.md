@@ -14,7 +14,7 @@ social:
     link: https://join.skype.com/invite/mzZ2rqOyntys
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mohammadshahidzade
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
