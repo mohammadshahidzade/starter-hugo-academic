@@ -26,12 +26,9 @@ education:
     - course: B.Sc. In Computer Engineering, 2018-
       institution: Shahid Bahonar University of Kerman
       year: ""
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: " Diploma In Mathematics and Physics, 2014-2018"
+      institution: Allameh Helli High School
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
