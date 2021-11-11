@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mohammad-shahidzade/
 organizations:
-  - name: Shahid bahonar university of kerman
+  - name: Shahid bahonar university
     url: https://uk.ac.ir/en/home
 education:
   courses:
