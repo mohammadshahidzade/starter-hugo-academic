@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: https://join.skype.com/invite/mzZ2rqOyntys
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
