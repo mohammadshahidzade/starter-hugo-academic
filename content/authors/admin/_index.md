@@ -27,6 +27,8 @@ social:
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - name: Shahid bahonar university of kerman
+    url: https://uk.ac.ir/en/home
 education:
   courses:
     - course: PhD in Artificial Intelligence
