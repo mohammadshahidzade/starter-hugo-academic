@@ -1,6 +1,6 @@
 ---
 title: Mohammad Shahidzade
-role: Professor of Artificial Intelligence
+role: B.Sc. Student of Computer Engineering
 avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
