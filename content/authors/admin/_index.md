@@ -1,7 +1,7 @@
 ---
 title: Mohammad Shahidzade
 role: B.Sc. Student of Computer Engineering
-avatar_filename: photo_2020-02-06_08-48-31.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
