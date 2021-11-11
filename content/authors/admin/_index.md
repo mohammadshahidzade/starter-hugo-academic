@@ -1,7 +1,7 @@
 ---
 title: Mohammad Shahidzade
 role: B.Sc. Student of Computer Engineering
-avatar_filename: ""
+avatar_filename: photo_2020-02-06_08-48-31.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -25,8 +25,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
   - name: Shahid bahonar university of kerman
     url: https://uk.ac.ir/en/home
 education:
