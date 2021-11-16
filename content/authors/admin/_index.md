@@ -37,7 +37,7 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-I am something that should be deleted a B.Sc student in Computer Engineering, from the Department of Computer Engineering ([CE](https://ce.uk.ac.ir/en/home)) at Shahid Bahonar University of Kerman ([SBUK](https://uk.ac.ir/en/home)) under the supervision of professor [Behnam Ghavami](https://scholar.google.com/citations?user=a0vk8BkAAAAJ&hl=en).
+I am a B.Sc student in Computer Engineering, from the Department of Computer Engineering ([CE](https://ce.uk.ac.ir/en/home)) at Shahid Bahonar University of Kerman ([SBUK](https://uk.ac.ir/en/home)) under the supervision of professor [Behnam Ghavami](https://scholar.google.com/citations?user=a0vk8BkAAAAJ&hl=en).
 
 My research focuses on Computer Aided Design, Robust and Reliable Deep Learning models, Efficiency and quantization of Deep Learning models, and parallel programming. Currently, I am working on Quantization and Binarization of Deep learning models.
 
@@ -46,3 +46,4 @@ In september 2020, I won the research-based contest in ICCAD 2020.
 <!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/transcript.pdf" "newtab" >}}Transcript{{< /staticref >}}.
