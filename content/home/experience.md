@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 71
 
 title: Experience
 subtitle:
@@ -22,28 +22,42 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: Shahid Bahonar University of Kerman
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: bahonar
+    location: ''
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    description: Worked on several projects under supervision of Prof. Behnam Ghavami
+  - title: Teacher
+    company: Allame Helli High School
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: nodet
+    location: ''
+    date_start: '2018-10-01'
+    date_end: '2019-03-02'
+    description: Taught Algorithm design, Graph theory and programming.
+        
+  - title: Scientific Team Member
+    company: HackerEarth
+    company_url: 'https://www.hackerearth.com/challenges/competitive/april-circuits-19/'
+    company_logo: he
+    location: ''
+    date_start: '2019-01-19'
+    date_end: '2019-04-19'
+    description: An online programming contest. The onsite contest was held under the name Saba Programming Contest.
+  
+  # - title: Participant
+  #   company: ACM-ICPC
+  #   company_url: 'https://icpc.global/ICPCID/4DNVIFRIHENV'
+  #   company_logo: ''
+  #   location: ''
+  #   date_start: '2018-12-19'
+  #   date_end: '2020-12-19'
+  #   description: '|2-
+  #   The International Collegiate Programming Contest is an algorithmic programming contest for college students. Teams of three, representing their university, work to solve the most real-world problems, fostering collaboration, creativity, innovation, and the ability to perform under pressure.
+  #   '
 
 design:
   columns: '2'
