@@ -21,5 +21,3 @@ image:
 With the rise of Deep Neural Networks (DNNs), many safety-critical applications, such as self-driving cars and healthcare devices, are using them to improve their performance. In these systems, error resilience is a top priority since faults in DNN inference could lead to mispredictions and safety hazards. In this work, I developed a new method to improve the error resiliency of DNNs. I tested this method on several DNN architectures and datasets. For this project,
 1) I used PyTorch, a deep learning framework based on Python, to implement and test FitAct. 
 2) I trained three well-known architectures (Resnet, Vgg, Alexnet) on two datasets(cifar10 and cifar100). I 3) I implemented autonomous driving on PyTorch.
-
-In this work i 
