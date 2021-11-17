@@ -43,7 +43,7 @@ My research focuses on Efficiency and quantization of Deep Learning, Computer Ai
 
 In the past few years, I’ve done several research/programming projects using Python (Pytorch, matplotlib and tensorflow frameworks) and C++ (STL and CUDA libraries). I’ve also collaborated with Reconfigurable Computing LAB, Simon Fraser University and it resulted in two papers.(one still in progress)
 
-In 2018, I won the bronze medal of [ICPC](https://icpc.global/ICPCID/4DNVIFRIHENV) Asia Tehran Regional competition which is an algorithmic programming contest for university students. My team got the 4th place in the onsite (main) contest and first place at online contest. In 2020, I won the [CAD](http://iccad-contest.org/2020/winners.html) Contest, a multi-month research and development competition, focusing on advanced, real-world problems in the field of Electronic Design Automation (EDA). My group managed to get the first place of the problem C : GPU Accelerated Logic Re-Simulation.
+In 2018, I won the bronze medal of [ICPC](https://icpc.global/ICPCID/SI3UCW9WVUQI) Asia Tehran Regional competition which is an algorithmic programming contest for university students. My team got the 4th place in the onsite (main) contest and first place at online contest. In 2020, I won the [CAD](http://iccad-contest.org/2020/winners.html) Contest, a multi-month research and development competition, focusing on advanced, real-world problems in the field of Electronic Design Automation (EDA). My group managed to get the first place of the problem C : GPU Accelerated Logic Re-Simulation.
 
 <!--EndFragment-->
 
