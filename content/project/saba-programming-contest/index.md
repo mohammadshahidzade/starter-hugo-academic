@@ -10,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-In this project, I designed two problems and prepared several problem statements for the Saba Programming Contest. In addition, I implemented the solutions and did validation checks and testing for several problems using C++.
+In this project, I designed three problems and prepared several problem statements for the Saba Programming Contest. In addition, I implemented the solutions and did validation checks and testing for several problems using C++.

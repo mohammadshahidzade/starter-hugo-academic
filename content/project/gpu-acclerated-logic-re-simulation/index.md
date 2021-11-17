@@ -16,4 +16,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Timing-aware gate-level simulation usually runs much slower than RTL simulation, from a few cycles per second on smaller unit-level designs to many seconds per cycle on today’s largest full-chip SoC designs. In this project, I developed several methods to parallelize the computations in the two dimensions of gate-parallelism and stimuli-parallelism and a new method for memory management of the stored signal waveforms. I did most of the project using C++ and the CUDA library and used several parallelization techniques. In addition, I developed a parser for Verilog as well as a Verilog-to-C++ translator. Our project managed to speed up the simulation up to 40x compared to a CPU simulator.
+Timing-aware gate-level simulation usually runs much slower than RTL simulation, from a few cycles per second on smaller unit-level designs to many seconds per cycle on today’s largest full-chip SoC designs.
+1) In this project, I developed several methods to parallelize the computations in the two dimensions of gate-parallelism and stimuli-parallelism and a new method for memory management of the stored signal waveforms.
+2) I did most of the project using C++ and the CUDA library and used several parallelization techniques.
+3) In addition, I developed a parser for Verilog as well as a Verilog-to-C++ translator. Our project managed to speed up the simulation up to 40x compared to a CPU simulator.
+4) I worked with amazon AWS to run our project.
+5) I worked with docker.
+6) I used debuging tools such as gdb and valgrind.

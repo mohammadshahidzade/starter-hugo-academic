@@ -11,4 +11,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-In this project, I studied the Reliability of Bayesian DNNs against fault injections. Furthermore, I proposed a new way to improve their robustness by using statistical information of Bayesian networks and uncertainty estimation. I used Python/PyTorch to implement this project.
+In this project, I studied the Reliability of Bayesian DNNs against fault injections.
+1) I proposed a new way to improve their robustness by using statistical information of Bayesian networks and uncertainty estimation.
+2) I used Python/PyTorch to implement this project.

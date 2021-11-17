@@ -17,4 +17,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Adversarial parameter attacks are well-known bit-flip attacks that try to flip a few bits of DNNs parameters to crush their functionality. However, these attacks are not always performable since the attacker may not have access to data for many applications containing sensitive or proprietary data. For example, medical and  biometric datasets are not available for everyone due to privacy and security concerns.In this project, I deployed several approaches to attack DNN parameters without having access to any training/test data. One of the methods was able to decrease the accuracy of ResNet50 to 12% on the CIFAR100 dataset.
+Adversarial parameter attacks are well-known bit-flip attacks that try to flip a few bits of DNNs parameters to crush their functionality. However, these attacks are not always performable since the attacker may not have access to data for many applications containing sensitive or proprietary data. For example, medical and  biometric datasets are not available for everyone due to privacy and security concerns.
+1) In this project, I deployed several approaches to attack DNN parameters without having access to any training/test data. One of the methods was able to decrease the accuracy of ResNet50 to 12% on the CIFAR100 dataset.
+2) I worked with imagenet
