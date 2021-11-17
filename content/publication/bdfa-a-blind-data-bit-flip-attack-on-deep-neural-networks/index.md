@@ -3,8 +3,8 @@ title: "BDFA: A Blind Data Bit-flip Attack on Deep Neural Networks"
 publication_types:
   - "3"
 authors:
+  - mani sadati
   - admin
-  - Mohammad Shahidzade
   - Behnam Ghavami
   - Zhenman Fang
   - Lesley Shannon
