@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: "/uploads/2020_ICCAD_CADWinners_Certificates_Seyed Mani Sadati.pdf"
+- certificate_url: "/files/Certificates_ICCAD.pdf"
   date_end: ""
   date_start: "2020-09-09"
   description: "Winner team of problem C: GPU Accelerated Logic Re-simulation."
@@ -31,7 +31,7 @@ item:
   organization_url: http://iccad-contest.org/2020/index.html
   title: First Place
   url: ""
-- certificate_url: https://icpc.global/ICPCID/4DNVIFRIHENV
+- certificate_url: "/files/PLACE.pdf"
   date_end: ""
   date_start: "2018-11-11"
   description: Rank 4 in the 2018 ICPC Asia Tehran Regional Contest. Rank 1 in Asia Tehran Internet Online Programming Contest.
@@ -42,18 +42,18 @@ item:
 - certificate_url: ""
   date_end: "2021-10-01"
   date_start: "2018-09-21"
-  description: "Among 120 computer engineering students. First GPA Rank in 2021. Current GPA: 19.0/20"
+  description: "Rank 3 Among 120 computer engineering students. Current GPA: 18.58/20"
   organization: Shahid Bahonar University
   organization_url: https://uk.ac.ir/en/home
-  title: GPA Rank 2
+  title: GPA Rank 3
   url: ""
 - certificate_url: ""
   date_end: "2016-04-21"
   date_start: "2017-04-01"
-  description: "Among 10000 students, passed the first and second exam in both years."
+  description: "Among 10000 students, passed the first and second exam."
   organization: National Olympiad in Informatics
   organization_url: https://inoi.ir
-  title: Top 70
+  title: Top 100
   url: ""
 
 design:
