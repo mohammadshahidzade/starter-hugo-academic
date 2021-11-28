@@ -43,10 +43,10 @@ I am a B.Sc student in Computer Engineering, from the Department of Computer Eng
 
 In 2018, I won the bronze medal of [ICPC](https://icpc.global/ICPCID/SI3UCW9WVUQI) Asia Tehran Regional competition which is an algorithmic programming contest for university students. My team got the 4th place in the onsite (main) contest and first place at online contest. In 2020, I won the [CAD](http://iccad-contest.org/2020/winners.html) Contest, a multi-month research and development competition, focusing on advanced, real-world problems in the field of Electronic Design Automation (EDA). My group managed to get the first place of the problem C : GPU Accelerated Logic Re-Simulation.
 
-In addition to gaining great research experiences, I was fortunate that I could work un-der the supervision of professor Behnam Ghavami. This experience results in several papersand projects. I’ve also collaborated with Reconfigurable Computing LAB, Simon Fraser University and it resulted in one papers.
+In addition to gaining great research experiences, I was fortunate that I could work under the supervision of professor Behnam Ghavami. This experience results in several papers and projects. I’ve also collaborated with Reconfigurable Computing LAB, Simon Fraser University and it resulted in one papers.
 
 
-My research under the supervision of professor Behnam Ghavam focuses on Efficiency and optimization of Deep Learning, Computer Aided Design, Robust and Reliable Deep Learning models, and parallel programming. Currently, I am working on Quantization and Binarization of Deep learning models.
+My research under the supervision of professor Behnam Ghavam focuses on Efficiency and optimization of Deep Learning, Computer Aided Design, Robust and Reliable Deep Learning models, and parallel programming. 
 <!--EndFragment-->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
